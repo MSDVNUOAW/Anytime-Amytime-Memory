@@ -203,6 +203,7 @@ footer{
 	height: 45vh;
 	margin-left: 30vw;
 	position: relative;
+	box-shadow: 3px 3px 8px black;
 }
 
 #gif{
